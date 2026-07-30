@@ -1,8 +1,9 @@
-# 🚀 Infinity Champions Program (ICP 2.0)
+# Infinity Champions Program (ICP 2.0)
 ### Advanced Data Structures & Algorithms | Placement Preparation Bootcamp
 
 <p align="center">
-  <img src="Assets/ICP-Logo.png" width="180">
+  <img width="150" height="82" alt="image" src="https://github.com/user-attachments/assets/0d4fb340-e242-45d4-bb6d-14f2a826f3d4" />
+
 </p>
 
 <p align="center">
@@ -18,7 +19,7 @@
 
 ---
 
-# 📖 About ICP 2.0
+# About ICP 2.0
 
 **Infinity Champions Program (ICP 2.0)** is an intensive placement preparation program designed for highly motivated B.Tech students aiming to secure **₹10 LPA+** software engineering opportunities in leading product-based companies.
 
@@ -26,16 +27,16 @@ This repository contains the complete learning resources for mastering **Data St
 
 The course emphasizes:
 
-- 📚 Strong conceptual understanding
-- 💡 Pattern recognition
-- 💻 Hands-on coding
-- 🧠 Interview thinking
-- 🏆 Competitive programming
-- 🎯 Placement readiness
+- Strong conceptual understanding
+- Pattern recognition
+- Hands-on coding
+- Interview thinking
+- Competitive programming
+- Placement readiness
 
 ---
 
-# 🎯 Program Objectives
+# Program Objectives
 
 By the end of ICP 2.0, students will be able to:
 
@@ -49,7 +50,7 @@ By the end of ICP 2.0, students will be able to:
 
 ---
 
-# 🛣️ Learning Roadmap
+# Learning Roadmap
 
 ```
 Programming Basics
@@ -93,7 +94,7 @@ Advanced Interview Preparation
 
 ---
 
-# 📚 Course Modules
+# Course Modules
 
 | Module | Topic |
 |---------|------|
@@ -125,7 +126,7 @@ Advanced Interview Preparation
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```
 ICP-2.0-Advanced-DSA
@@ -146,7 +147,7 @@ ICP-2.0-Advanced-DSA
 
 ---
 
-# 📅 Daily Learning Schedule
+# Daily Learning Schedule
 
 | Activity | Duration |
 |----------|----------|
@@ -159,7 +160,7 @@ ICP-2.0-Advanced-DSA
 
 ---
 
-# 💻 Coding Standards
+# Coding Standards
 
 ✔ Language: Java
 
@@ -175,7 +176,7 @@ Every problem follows:
 
 ---
 
-# 🏆 Weekly Activities
+# Weekly Activities
 
 - Weekly Coding Contest
 - Mock Interviews
@@ -186,7 +187,7 @@ Every problem follows:
 
 ---
 
-# 📈 Progress Milestones
+# Progress Milestones
 
 | Milestone | Target |
 |-----------|---------|
@@ -198,7 +199,7 @@ Every problem follows:
 
 ---
 
-# 🏢 Target Companies
+# Target Companies
 
 - Google
 - Microsoft
@@ -218,7 +219,7 @@ Every problem follows:
 
 ---
 
-# 📖 Recommended Platforms
+# Recommended Platforms
 
 - LeetCode
 - GeeksforGeeks
@@ -229,7 +230,7 @@ Every problem follows:
 
 ---
 
-# 🤝 Contribution Guidelines
+# Contribution Guidelines
 
 Students are encouraged to:
 
@@ -241,7 +242,7 @@ Students are encouraged to:
 
 ---
 
-# 👨‍🏫 Program Mentor
+# Program Mentor
 
 **Mohd. Amir Khan**
 
@@ -255,7 +256,7 @@ GLA University, Mathura
 
 ---
 
-# ⭐ Repository Goals
+# Repository Goals
 
 ✅ Learn
 
@@ -269,6 +270,6 @@ GLA University, Mathura
 
 ---
 
-## 🚀 "Consistency Beats Intensity."
+## "Consistency Beats Intensity."
 
 **Code Every Day. Learn Every Day. Improve Every Day.**
