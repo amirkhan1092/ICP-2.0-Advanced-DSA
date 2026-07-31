@@ -98,8 +98,8 @@ Advanced Interview Preparation
 
 | Module | Topic |
 |---------|------|
-| 00 | Orientation |
-| 01 | Time Complexity |
+| 00 | Java |
+| 01 | Intro DSA  |
 | 02 | Arrays |
 | 03 | Prefix Sum |
 | 04 | Two Pointers |
@@ -131,8 +131,8 @@ Advanced Interview Preparation
 ```
 ICP-2.0-Advanced-DSA
 │
-├── 00-Orientation
-├── 01-Time-Complexity
+├── 00-Programming Language 'Java'
+├── 01-Intro DSA
 ├── 02-Arrays
 ├── 03-Prefix-Sum
 ├── ...
